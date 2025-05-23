@@ -1,0 +1,27 @@
+* Mongoose -> Object Data Modeling (ODM)
+
+Q: Why should we use Mongoose?
+A: Mongoose helps us in,
+- Schema Definition
+- Model Creation
+- Data Validation
+- Querying
+- Middleware Support
+- Population
+
+Install from Docs (using npm)
+- express
+- mongoose
+- typescript
+- cors
+- dotenv
+
+* Initalize tsconfig.json writing following command in iterm2 or cmd
+# tsc -init
+
+* In tsconfig.json, do as follows
+# root: './src'
+# outDir: './dist'
+
+* In the root of the project,
+- create src/app.ts
